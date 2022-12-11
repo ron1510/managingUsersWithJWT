@@ -1,0 +1,3 @@
+20221210	19:53:29	211b5233-c196-46c2-8dcc-f155dc4bb5c7	Error: Not allowed by CORS
+20221210	20:13:43	444a91f3-3fd8-4323-9144-ab41df297b6b	Error: ENOENT: no such file or directory, stat 'C:\Users\Ron\Desktop\cs\WebStuff\React_Course\DaveGray\part8\express_middleware-main\routes\views\index.html'
+20221211	15:10:04	b1125545-9f1c-4bd4-95ef-e0b7348bf579	SyntaxError: Unexpected token " in JSON at position 0
